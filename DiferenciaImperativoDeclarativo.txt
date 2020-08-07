@@ -1,0 +1,23 @@
+Un lenguaje de programacion imperativo es un lenguaje en el cual nosotros tenemos que 
+escribir los pasos para solucionar un problema, el cual nosotros sabemos, pero no es 
+necesario que la computadora sepa que queremos hacer.
+
+En cambio un lenguaje de programacion declarativo es un tipo de lenguaje en el cual
+el programador debe decirle a la computadora cual es el problema a resolver y como quiere
+que se resuelva, mientras el programador no toma en cuenta los pasos necesarios para que 
+este lo resuelva.
+
+Un ejemplo podria ser el contar de uno a diez.
+en un lenguaje imperativo ese problema se resolveria ya sea con un ciclo o enumerando todos
+los pasos a seguir para que esto se complete, esto lo tendria que hacer el usuario y con
+pseudo codigo se escribiria algo asi:
+
+contador = 0
+mientras contador < 10 entonces
+contador = contador + 1 
+imprimir contador
+
+
+Y si se utilizara un lenguaje declarativo podria escribirse algo de tipo
+
+Cuenta y muestra los numeros del uno al 10
